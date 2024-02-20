@@ -1,0 +1,19 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+}

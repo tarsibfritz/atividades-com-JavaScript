@@ -1,0 +1,24 @@
+body{
+    font-family: 'DM Sans', sans-serif ;
+}
+
+h1{
+    text-align: center;
+    font: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+ul li{
+    font-size: 16px;
+}
+
+#guide{
+    font-size: 18px;
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+
+}

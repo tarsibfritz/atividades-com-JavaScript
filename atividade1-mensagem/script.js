@@ -1,0 +1,1 @@
+console.log("Mensagem que você digitou: " + prompt("Digite sua mensagem: "));
