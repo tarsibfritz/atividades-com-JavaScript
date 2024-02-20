@@ -1,14 +1,14 @@
-# Atividades de estudo com JavaScript 
+# 📔 Atividades de estudo com JavaScript 
 
 15 atividades do curso Rio Pomba Valley realizadas com foco no estudo de JavaScript.
 
-## Tecnologias:
+## 🚀 Tecnologias:
 
 - HTML
 - CSS
 - JavaScript
 
-## Enunciado das atividades: 
+## 🔢 Enunciado das atividades: 
 
 1. Crie um programa que exiba no console uma mensagemdigitada pelo usuário.
 2. Crie um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas para ela.
