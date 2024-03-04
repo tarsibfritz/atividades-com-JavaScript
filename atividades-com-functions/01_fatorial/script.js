@@ -8,9 +8,13 @@ function calcularFatorial(numero) {
 
 let valorInicial = parseInt(prompt("Informe um valor: "));
 
-if (valorInicial <= 0 || isNaN(valorInicial)) {
+if (valorInicial < 0 || isNaN(valorInicial)) {
     console.log("Valor inválido. Por favor, informe outro valor.");
-} else {
+} 
+else if (valorInicial == 0){
+    console.log("0! = 1")
+}
+else {
     let resultado = `${valorInicial}! = `;
     for (let i = valorInicial; i >= 1; i--) {
         resultado += i;
