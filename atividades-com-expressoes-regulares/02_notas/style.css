@@ -1,0 +1,36 @@
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+#media {
+  display: inline;
+  flex: 2;
+  font-size: 14px;
+  color: purple;
+  font-weight: bold;
+  background-color: rgba(129, 20, 156, 0.167);
+  margin-right: auto;
+  padding: 2px;
+  margin-right: auto;
+  border-radius: 4px;
+}
+
+#guide {
+  font-size: 18px;
+  color: purple;
+  text-align: center;
+  font-weight: bold;
+}
