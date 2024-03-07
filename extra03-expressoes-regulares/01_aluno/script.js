@@ -20,7 +20,7 @@ function dadosDoAluno() {
   
     // Função de validação: data de nascimento
     function validarNascimento(dataNascimento) {
-      let regexNascimento = /[0-3]{1}[0-9]{1}\/[0-1]{1}[0-9]{1}\/[0-9]{4}/; // passo a passo: [0-3]{1}[0-9]{1} = dia | [0-1]{1}[0-9]{1} = mês | [0-9]{4} = ano
+      let regexNascimento = /^[3][0-1]|[1-2][0-9]|[0][1-9]\/[1][0-2]|[0][1-9]\/$/ // passo a passo: [0-3]{1}[0-9]{1} = dia | [0-1]{1}[0-9]{1} = mês | [0-9]{4} = ano
       return regexNascimento.test(dataNascimento);
     }
   
